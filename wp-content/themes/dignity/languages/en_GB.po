@@ -1,0 +1,805 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dignity\n"
+"POT-Creation-Date: 2014-01-07 18:58+0530\n"
+"PO-Revision-Date: 2014-01-07 19:01+0530\n"
+"Last-Translator: Designova <contactancil@gmail.com>\n"
+"Language-Team: Designova <info@designova.net>\n"
+"Language: EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _e;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../archive.php:91 ../blog-page.php:100 ../index.php:94 ../search.php:92
+#: ../single.php:92
+msgid "By, "
+msgstr "By, "
+
+#: ../archive.php:91 ../blog-page.php:100 ../index.php:94 ../search.php:92
+#: ../single.php:92
+msgid " on "
+msgstr " on "
+
+#: ../archive.php:98 ../blog-page.php:107 ../index.php:101 ../search.php:99
+msgid "Read More"
+msgstr "Read More"
+
+#: ../comments.php:43
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: ../comments.php:44
+msgid "&larr; Older Comments"
+msgstr "&larr; Older Comments"
+
+#: ../comments.php:45
+msgid "Newer Comments &rarr;"
+msgstr "Newer Comments &rarr;"
+
+#: ../comments.php:50
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: ../comments.php:64
+msgid "Name:"
+msgstr "Name:"
+
+#: ../comments.php:67
+msgid "Email:"
+msgstr "Email:"
+
+#: ../comments.php:69
+msgid "Website:"
+msgstr "Website:"
+
+#: ../comments.php:71
+msgid "Comment:"
+msgstr "Comment:"
+
+#: ../comments.php:73
+msgid "You must be logged in to post a comment."
+msgstr "You must be logged in to post a comment."
+
+#: ../comments.php:74
+#, php-format
+msgid "Logged in as <a href=\"%s\">%s</a>.</p>"
+msgstr "Logged in as <a href=\"%s\">%s</a>.</p>"
+
+#: ../comments.php:80
+msgid "Leave a reply"
+msgstr "Leave a reply"
+
+#: ../comments.php:81
+#, php-format
+msgid "Leave a reply to %s"
+msgstr "Leave a reply to %s"
+
+#: ../comments.php:82
+msgid "Cancel reply"
+msgstr "Cancel reply"
+
+#: ../comments.php:83
+msgid "Post Comment"
+msgstr "Post Comment"
+
+#: ../footer.php:147
+msgid "Close"
+msgstr "Close"
+
+#: ../functions.php:29
+msgid "Primary Navigation"
+msgstr "Primary Navigation"
+
+#: ../functions.php:41
+msgid "Dignity Sidebar"
+msgstr "Dignity Sidebar"
+
+#: ../functions.php:487
+msgid "Older Entries"
+msgstr "Older Entries"
+
+#: ../functions.php:488
+msgid "Newer Entries"
+msgstr "Newer Entries"
+
+#: ../functions.php:529
+#, php-format
+msgid "<h4 class=\"\">%s</h4>"
+msgstr "<h4 class=\"\">%s</h4>"
+
+#: ../functions.php:532
+msgid "Edit"
+msgstr "Edit"
+
+#: ../functions.php:536
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#: ../search.php:109
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "Sorry, but you are looking for something that isn't here."
+
+#: ../admin/custom-post-types.php:8
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: ../admin/custom-post-types.php:9
+msgid "Project"
+msgstr "Project"
+
+#: ../admin/custom-post-types.php:10 ../admin/custom-post-types.php:11
+msgid "Add New Project"
+msgstr "Add New Project"
+
+#: ../admin/custom-post-types.php:12 ../admin/custom-post-types.php:13
+msgid "Edit Project"
+msgstr "Edit Project"
+
+#: ../admin/custom-post-types.php:15
+msgid "Portfolio Items."
+msgstr "Portfolio Items."
+
+#: ../admin/custom-post-types.php:38
+msgid " Splash Slider"
+msgstr " Splash Slider"
+
+#: ../admin/custom-post-types.php:39
+msgid "Slide"
+msgstr "Slide"
+
+#: ../admin/custom-post-types.php:40 ../admin/custom-post-types.php:41
+msgid "Add New Slide"
+msgstr "Add New Slide"
+
+#: ../admin/custom-post-types.php:42 ../admin/custom-post-types.php:43
+msgid "Edit Slide"
+msgstr "Edit Slide"
+
+#: ../admin/custom-post-types.php:45
+msgid "Slides"
+msgstr "Slides"
+
+#: ../admin/theme-options.php:28
+msgid "A Section added by hook"
+msgstr "A Section added by hook"
+
+#: ../admin/theme-options.php:29
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array, great to allow child themes, to add/remove sections from the "
+"options.</p>"
+msgstr ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array, great to allow child themes, to add/remove sections from the "
+"options.</p>"
+
+#: ../admin/theme-options.php:111
+msgid "Theme Options"
+msgstr "Theme Options"
+
+#: ../admin/theme-options.php:114
+msgid "Dignity Theme Settings"
+msgstr "Dignity Theme Settings"
+
+#: ../admin/theme-options.php:135
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr "<p>This is the sidebar content, HTML is allowed.</p>"
+
+#: ../admin/theme-options.php:164
+msgid "General Settings"
+msgstr "General Settings"
+
+#: ../admin/theme-options.php:165
+msgid ""
+"<p class=\"description\">General settings for theme like logo, highlight "
+"color etc</p>"
+msgstr ""
+"<p class=\"description\">General settings for theme like logo, highlight "
+"color etc</p>"
+
+#: ../admin/theme-options.php:174
+msgid "Header Logo"
+msgstr "Header Logo"
+
+#: ../admin/theme-options.php:176
+msgid "Upload or Select the logo (width should be 150px)."
+msgstr "Upload or Select the logo (width should be 150px)."
+
+#: ../admin/theme-options.php:181
+msgid "Header Logo (Retina)"
+msgstr "Header Logo (Retina)"
+
+#: ../admin/theme-options.php:183
+msgid ""
+"Upload your logo for retina display.<br>It should have the same name and "
+"doubled the sized than the regular. The name also need to contain the chars "
+"@2x at the end. Ex. 'mylogo.png' becomes 'mylogo@2x.png' (width should be "
+"300px)."
+msgstr ""
+"Upload your logo for retina display.<br>It should have the same name and "
+"doubled the sized than the regular. The name also need to contain the chars "
+"@2x at the end. Ex. 'mylogo.png' becomes 'mylogo@2x.png' (width should be "
+"300px)."
+
+#: ../admin/theme-options.php:188
+msgid "Fav Icon"
+msgstr "Fav Icon"
+
+#: ../admin/theme-options.php:190
+msgid "Upload or Select the icon (16px X 16px)."
+msgstr "Upload or Select the icon (16px X 16px)."
+
+#: ../admin/theme-options.php:195
+msgid "Choose The Highlight Color"
+msgstr "Choose The Highlight Color"
+
+#: ../admin/theme-options.php:203
+msgid "Navbar Opacity"
+msgstr "Navbar Opacity"
+
+#: ../admin/theme-options.php:210
+msgid "Navigation Type"
+msgstr "Navigation Type"
+
+#: ../admin/theme-options.php:213
+msgid "Sliding"
+msgstr "Sliding"
+
+#: ../admin/theme-options.php:213
+msgid "Standard"
+msgstr "Standard"
+
+#: ../admin/theme-options.php:223
+msgid "Home Page Settings"
+msgstr "Home Page Settings"
+
+#: ../admin/theme-options.php:224
+msgid "<p class=\"description\">Home Page configrations</p>"
+msgstr "<p class=\"description\">Home Page configrations</p>"
+
+#: ../admin/theme-options.php:233
+msgid "Home Page Background Type"
+msgstr "Home Page Background Type"
+
+#: ../admin/theme-options.php:236
+msgid "Image Slider"
+msgstr "Image Slider"
+
+#: ../admin/theme-options.php:236
+msgid "Parallax Image"
+msgstr "Parallax Image"
+
+#: ../admin/theme-options.php:236
+msgid "Static Image"
+msgstr "Static Image"
+
+#: ../admin/theme-options.php:236
+msgid "Youtube Video"
+msgstr "Youtube Video"
+
+#: ../admin/theme-options.php:236
+msgid "Vimeo Video"
+msgstr "Vimeo Video"
+
+#: ../admin/theme-options.php:242
+msgid "Home Page Slider Effect"
+msgstr "Home Page Slider Effect"
+
+#: ../admin/theme-options.php:245
+msgid "Fade"
+msgstr "Fade"
+
+#: ../admin/theme-options.php:245
+msgid "Slide Up"
+msgstr "Slide Up"
+
+#: ../admin/theme-options.php:245
+msgid "Slide Down"
+msgstr "Slide Down"
+
+#: ../admin/theme-options.php:245
+msgid "Slide Left"
+msgstr "Slide Left"
+
+#: ../admin/theme-options.php:245
+msgid "Slide Right"
+msgstr "Slide Right"
+
+#: ../admin/theme-options.php:245
+msgid "Zoom"
+msgstr "Zoom"
+
+#: ../admin/theme-options.php:251
+msgid "Slideshow Image Source"
+msgstr "Slideshow Image Source"
+
+#: ../admin/theme-options.php:254
+msgid "Splash Slider"
+msgstr "Splash Slider"
+
+#: ../admin/theme-options.php:254 ../admin/theme-options.php:464
+msgid "Flickr"
+msgstr "Flickr"
+
+#: ../admin/theme-options.php:260
+msgid "Youtube Video Source"
+msgstr "Youtube Video Source"
+
+#: ../admin/theme-options.php:267
+msgid "Vimeo Video Source"
+msgstr "Vimeo Video Source"
+
+#: ../admin/theme-options.php:274
+msgid "Home Page Layout"
+msgstr "Home Page Layout"
+
+#: ../admin/theme-options.php:277
+msgid "Regular"
+msgstr "Regular"
+
+#: ../admin/theme-options.php:277
+msgid "Left Split"
+msgstr "Left Split"
+
+#: ../admin/theme-options.php:277
+msgid "Right Split"
+msgstr "Right Split"
+
+#: ../admin/theme-options.php:283
+msgid "Choose The Split Backgroud Color"
+msgstr "Choose The Split Backgroud Color"
+
+#: ../admin/theme-options.php:291
+msgid "Parallax or Static Image"
+msgstr "Parallax or Static Image"
+
+#: ../admin/theme-options.php:298
+msgid "Enable Mask"
+msgstr "Enable Mask"
+
+#: ../admin/theme-options.php:300
+msgid "Enables background overlay"
+msgstr "Enables background overlay"
+
+#: ../admin/theme-options.php:311
+msgid "Contact Form Settings"
+msgstr "Contact Form Settings"
+
+#: ../admin/theme-options.php:312
+msgid "<p class=\"description\">Contact Form configrations</p>"
+msgstr "<p class=\"description\">Contact Form configrations</p>"
+
+#: ../admin/theme-options.php:321
+msgid "Placeholder For Name"
+msgstr "Placeholder For Name"
+
+#: ../admin/theme-options.php:328
+msgid "Placeholder For Email"
+msgstr "Placeholder For Email"
+
+#: ../admin/theme-options.php:335
+msgid "Placeholder For Message"
+msgstr "Placeholder For Message"
+
+#: ../admin/theme-options.php:342
+msgid "Text For Submit Button"
+msgstr "Text For Submit Button"
+
+#: ../admin/theme-options.php:349
+msgid "Thanks Message Header"
+msgstr "Thanks Message Header"
+
+#: ../admin/theme-options.php:356
+msgid "Thanks Message"
+msgstr "Thanks Message"
+
+#: ../admin/theme-options.php:363
+msgid "Contact form Email"
+msgstr "Contact form Email"
+
+#: ../admin/theme-options.php:366
+msgid "<br/>Contact form submissions will be mailed to this address"
+msgstr "<br/>Contact form submissions will be mailed to this address"
+
+#: ../admin/theme-options.php:372
+msgid "Contact Email Subject"
+msgstr "Contact Email Subject"
+
+#: ../admin/theme-options.php:382
+msgid "Social Media"
+msgstr "Social Media"
+
+#: ../admin/theme-options.php:383
+msgid "<p class=\"description\">Configure the social media links here.</p>"
+msgstr "<p class=\"description\">Configure the social media links here.</p>"
+
+#: ../admin/theme-options.php:392
+msgid "Mail ID"
+msgstr "Mail ID"
+
+#: ../admin/theme-options.php:394
+msgid "<br/>Email ID"
+msgstr "<br/>Email ID"
+
+#: ../admin/theme-options.php:400
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../admin/theme-options.php:402
+msgid "<br/>Facebook URL"
+msgstr "<br/>Facebook URL"
+
+#: ../admin/theme-options.php:408
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../admin/theme-options.php:410
+msgid "<br/>Twitter url"
+msgstr "<br/>Twitter url"
+
+#: ../admin/theme-options.php:416
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: ../admin/theme-options.php:418
+msgid "<br/>Google Plus URL"
+msgstr "<br/>Google Plus URL"
+
+#: ../admin/theme-options.php:424
+msgid "Linked In"
+msgstr "Linked In"
+
+#: ../admin/theme-options.php:426
+msgid "<br/>Linked In URL"
+msgstr "<br/>Linked In URL"
+
+#: ../admin/theme-options.php:432
+msgid "Pintrest"
+msgstr "Pintrest"
+
+#: ../admin/theme-options.php:434
+msgid "<br/>Pintrest URL"
+msgstr "<br/>Pintrest URL"
+
+#: ../admin/theme-options.php:440
+msgid "Dribble"
+msgstr "Dribble"
+
+#: ../admin/theme-options.php:442
+msgid "<br/>Dribble URL"
+msgstr "<br/>Dribble URL"
+
+#: ../admin/theme-options.php:448
+msgid "Behance"
+msgstr "Behance"
+
+#: ../admin/theme-options.php:450
+msgid "<br/>Behance URL"
+msgstr "<br/>Behance URL"
+
+#: ../admin/theme-options.php:456
+msgid "Github"
+msgstr "Github"
+
+#: ../admin/theme-options.php:458
+msgid "<br/>Github URL"
+msgstr "<br/>Github URL"
+
+#: ../admin/theme-options.php:466
+msgid "<br/>Flickr URL"
+msgstr "<br/>Flickr URL"
+
+#: ../admin/theme-options.php:472
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: ../admin/theme-options.php:474
+msgid "<br/>Tumblr URL"
+msgstr "<br/>Tumblr URL"
+
+#: ../admin/theme-options.php:480
+msgid "Soundcloud"
+msgstr "Soundcloud"
+
+#: ../admin/theme-options.php:482
+msgid "<br/>Soundcloud URL"
+msgstr "<br/>Soundcloud URL"
+
+#: ../admin/theme-options.php:488
+msgid "Instagram"
+msgstr "Instagram"
+
+#: ../admin/theme-options.php:490
+msgid "<br/>Instagram URL"
+msgstr "<br/>Instagram URL"
+
+#: ../admin/theme-options.php:496
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ../admin/theme-options.php:498
+msgid "<br/>Vimeo URL"
+msgstr "<br/>Vimeo URL"
+
+#: ../admin/theme-options.php:507
+msgid "Footer Settings"
+msgstr "Footer Settings"
+
+#: ../admin/theme-options.php:508
+msgid ""
+"<p class=\"description\">Footer settings for theme like address, credits "
+"etc</p>"
+msgstr ""
+"<p class=\"description\">Footer settings for theme like address, credits "
+"etc</p>"
+
+#: ../admin/theme-options.php:518
+msgid "Twitter ID"
+msgstr "Twitter ID"
+
+#: ../admin/theme-options.php:520
+msgid "<br/>Tweets appeares on every page footer"
+msgstr "<br/>Tweets appeares on every page footer"
+
+#: ../admin/theme-options.php:526
+msgid "Choose Custom Footer Backgroud Color"
+msgstr "Choose Custom Footer Backgroud Color"
+
+#: ../admin/theme-options.php:534
+msgid "Custom Footer Contents"
+msgstr "Custom Footer Contents"
+
+#: ../admin/theme-options.php:542
+msgid "Hide Footer Widget Area"
+msgstr "Hide Footer Widget Area"
+
+#: ../admin/theme-options.php:544
+msgid "Check if you want to hide the footer widget."
+msgstr "Check if you want to hide the footer widget."
+
+#: ../admin/theme-options.php:550
+msgid "Copyright Text"
+msgstr "Copyright Text"
+
+#: ../admin/theme-options.php:552 ../admin/theme-options.php:560
+msgid "<br/>Text appeares at bottom every page footer"
+msgstr "<br/>Text appeares at bottom every page footer"
+
+#: ../admin/theme-options.php:558
+msgid "Credit Text"
+msgstr "Credit Text"
+
+#: ../admin/theme-options.php:568
+msgid "Additional CSS"
+msgstr "Additional CSS"
+
+#: ../admin/theme-options.php:569
+msgid ""
+"<p class=\"description\">Add any additional CSS rules if you need. This will "
+"appear \n"
+"\t\t\t\t\tinside the header. You may use this feature to override the css "
+"rules we used inside the theme. You may have to use \"!important\" along "
+"with the rule to make them work</p>"
+msgstr ""
+"<p class=\"description\">Add any additional CSS rules if you need. This will "
+"appear \n"
+"\t\t\t\t\tinside the header. You may use this feature to override the css "
+"rules we used inside the theme. You may have to use \"!important\" along "
+"with the rule to make them work</p>"
+
+#: ../admin/theme-options.php:579
+msgid "Add your styles here"
+msgstr "Add your styles here"
+
+#: ../admin/theme-options.php:580
+msgid "Custom CSS Rules"
+msgstr "Custom CSS Rules"
+
+#: ../admin/theme-options.php:599
+msgid "<strong>Theme URL:</strong> "
+msgstr "<strong>Theme URL:</strong> "
+
+#: ../admin/theme-options.php:600
+msgid "<strong>Author:</strong> "
+msgstr "<strong>Author:</strong> "
+
+#: ../admin/theme-options.php:601
+msgid "<strong>Version:</strong> "
+msgstr "<strong>Version:</strong> "
+
+#: ../admin/theme-options.php:603
+msgid "<strong>Tags:</strong> "
+msgstr "<strong>Tags:</strong> "
+
+#: ../admin/theme-options.php:610
+msgid "Theme Information"
+msgstr "Theme Information"
+
+#: ../admin/theme-options.php:617
+msgid "Documentation"
+msgstr "Documentation"
+
+#: ../admin/options/options.php:49 ../admin/options/options.php:51
+msgid "Options"
+msgstr "Options"
+
+#: ../admin/options/options.php:63
+msgid "<span id=\"footer-thankyou\">Options Panel created using the <a href=\""
+msgstr ""
+"<span id=\"footer-thankyou\">Options Panel created using the <a href=\""
+
+#: ../admin/options/options.php:247 ../admin/options/options.php:248
+#: ../admin/options/options.php:681
+msgid "Import / Export"
+msgstr "Import / Export"
+
+#: ../admin/options/options.php:274 ../admin/options/options.php:275
+#: ../admin/options/options.php:700 ../admin/options/options.php:782
+msgid "Dev Mode Info"
+msgstr "Dev Mode Info"
+
+#: ../admin/options/options.php:330
+msgid "Are you sure? Resetting will loose all custom values."
+msgstr "Are you sure? Resetting will loose all custom values."
+
+#: ../admin/options/options.php:647 ../admin/options/options.php:807
+msgid "Reset to Defaults"
+msgstr "Reset to Defaults"
+
+#: ../admin/options/options.php:653
+msgid "<strong>Settings Imported!</strong>"
+msgstr "<strong>Settings Imported!</strong>"
+
+#: ../admin/options/options.php:655
+msgid "<strong>Settings Saved!</strong>"
+msgstr "<strong>Settings Saved!</strong>"
+
+#: ../admin/options/options.php:659
+msgid "<strong>Settings have changed!, you should save them!</strong>"
+msgstr "<strong>Settings have changed!, you should save them!</strong>"
+
+#: ../admin/options/options.php:660
+msgid "<strong><span></span> error(s) were found!</strong>"
+msgstr "<strong><span></span> error(s) were found!</strong>"
+
+#: ../admin/options/options.php:662
+msgid "<strong><span></span> warning(s) were found!</strong>"
+msgstr "<strong><span></span> warning(s) were found!</strong>"
+
+#: ../admin/options/options.php:718
+msgid "Import / Export Options"
+msgstr "Import / Export Options"
+
+#: ../admin/options/options.php:720
+msgid "Import Options"
+msgstr "Import Options"
+
+#: ../admin/options/options.php:728
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+
+#: ../admin/options/options.php:741
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+
+#: ../admin/options/options.php:751
+msgid "Import"
+msgstr "Import"
+
+#: ../admin/options/options.php:751
+msgid ""
+"WARNING! This will overwrite any existing options, please proceed with "
+"caution!"
+msgstr ""
+"WARNING! This will overwrite any existing options, please proceed with "
+"caution!"
+
+#: ../admin/options/options.php:754
+msgid "Export Options"
+msgstr "Export Options"
+
+#: ../admin/options/options.php:756
+msgid ""
+"Here you can copy/download your themes current option settings. Keep this "
+"safe as you can use it as a backup should anything go wrong. Or you can use "
+"it to restore your settings on this site (or any other site). You also have "
+"the handy option to copy the link to yours sites settings. Which you can "
+"then use to duplicate on another site"
+msgstr ""
+"Here you can copy/download your themes current option settings. Keep this "
+"safe as you can use it as a backup should anything go wrong. Or you can use "
+"it to restore your settings on this site (or any other site). You also have "
+"the handy option to copy the link to yours sites settings. Which you can "
+"then use to duplicate on another site"
+
+#: ../admin/options/fields/color_gradient/field_color_gradient.php:35
+msgid "From:"
+msgstr "From:"
+
+#: ../admin/options/fields/color_gradient/field_color_gradient.php:38
+msgid " To:"
+msgstr " To:"
+
+#: ../admin/options/fields/google_webfonts/field_google_webfonts.php:42
+msgid ""
+"The fonts provided below are free to use custom fonts from the <a href="
+"\"http://www.google.com/webfonts\" target=\"_blank\">Google Web Fonts "
+"directory</a>.<br/>Please <a href=\"http://www.google.com/webfonts\" target="
+"\"_blank\">browse the directory</a> to preview a font, then select your "
+"choice below."
+msgstr ""
+"The fonts provided below are free to use custom fonts from the <a href="
+"\"http://www.google.com/webfonts\" target=\"_blank\">Google Web Fonts "
+"directory</a>.<br/>Please <a href=\"http://www.google.com/webfonts\" target="
+"\"_blank\">browse the directory</a> to preview a font, then select your "
+"choice below."
+
+#: ../admin/options/fields/multi_text/field_multi_text.php:39
+#: ../admin/options/fields/multi_text/field_multi_text.php:46
+#: ../admin/options/fields/multi_text/field_multi_text.php:50
+msgid "Remove"
+msgstr "Remove"
+
+#: ../admin/options/fields/multi_text/field_multi_text.php:54
+msgid "Add More"
+msgstr "Add More"
+
+#: ../admin/options/fields/upload/field_upload.php:39
+msgid "Browse"
+msgstr "Browse"
+
+#: ../admin/options/fields/upload/field_upload.php:40
+msgid "Remove Upload"
+msgstr "Remove Upload"
+
+#: ../admin/options/validation/color/validation_color.php:15
+msgid "This field must be a valid color value."
+msgstr "This field must be a valid color value."
+
+#: ../admin/options/validation/comma_numeric/validation_comma_numeric.php:15
+msgid ""
+"You must provide a comma seperated list of numerical values for this option."
+msgstr ""
+"You must provide a comma seperated list of numerical values for this option."
+
+#: ../admin/options/validation/date/validation_date.php:15
+msgid "This field must be a valid date."
+msgstr "This field must be a valid date."
+
+#: ../admin/options/validation/email/validation_email.php:15
+msgid "You must provide a valid email for this option."
+msgstr "You must provide a valid email for this option."
+
+#: ../admin/options/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+
+#: ../admin/options/validation/no_special_chars/validation_no_special_chars.php:15
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+
+#: ../admin/options/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr "You must provide a numerical value for this option."
+
+#: ../admin/options/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr "You must provide a valid URL for this option."
