@@ -13,6 +13,7 @@
       <script src="<?php echo get_stylesheet_directory_uri();?>/bootstrap/js/respond.min.js"></script>
     <![endif]-->
     
+		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 
 	<?php
 
